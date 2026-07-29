@@ -8,6 +8,7 @@ ACHEIVE YOUR PROMOTION
 ## 목차
 - [개요](#개요)
 - [게임설명](#게임설명)
+- [게임 플레이 방식](#게임 플레이 양식)
 
 ## 개요
 - 프로젝트 이름 : ACHIEVE YOUR PROMOTION
