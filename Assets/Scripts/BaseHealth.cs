@@ -24,13 +24,20 @@ public class BaseHealth : MonoBehaviour
             return;
 
         currentHealth -= damage;
-        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+
+        currentHealth = Mathf.Clamp(
+            currentHealth,
+            0,
+            maxHealth
+        );
 
         UpdateHealthUI();
 
         if (currentHealth <= 0)
         {
-            Debug.Log($"{gameObject.name} ÆÄ±«µÊ");
+            Debug.Log(
+                $"{gameObject.name} ÆÄ±«µÊ"
+            );
         }
     }
 
