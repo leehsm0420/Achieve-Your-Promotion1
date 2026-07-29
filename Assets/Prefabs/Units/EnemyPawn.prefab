@@ -111,7 +111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8e85ffbc56a16945b79ab364d331b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UnitAI
-  moveDuration: 0.35
+  moveDuration: 0.01
   waitBetweenMoves: 0.2
   attackRangeCells: 1
 --- !u!1 &3153104683416973780
